@@ -9,11 +9,9 @@ import Fetch3 from './Fetch3';
     <div>
     <div>
             <Header />
-
     </div>
     <div>
       <Fetch1/>
-
     </div>
 
 <div>
